@@ -1,4 +1,4 @@
-23843102999028223
+23846577441867121
 Audio_Module
 QFN24_CP2102N_SIL
 
@@ -96760,3 +96760,17 @@ Varistor VF
 0
 2
 2
+rfReciever-Footprints
+QFN50P500X500X80-29N
+
+
+0
+29
+29
+rfReciever-Footprints
+XBeeXR900RFMicro
+
+
+0
+34
+34

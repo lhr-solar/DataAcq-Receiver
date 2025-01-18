@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "rfReciever-Footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints/rfReciever-Footprints.pretty")(options "")(descr ""))
+)
