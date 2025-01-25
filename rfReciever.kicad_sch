@@ -3671,7 +3671,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 228.6) (xy 184.15 228.6)
+			(xy 171.45 228.6) (xy 184.15 228.6)
 		)
 		(stroke
 			(width 0)
@@ -4131,7 +4131,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 226.06) (xy 184.15 226.06)
+			(xy 171.45 226.06) (xy 184.15 226.06)
 		)
 		(stroke
 			(width 0)
@@ -4332,7 +4332,7 @@
 		)
 		(uuid "0ebf5b88-0c5a-4d1d-8a34-efdc65ee5ebb")
 	)
-	(label "TXD(Bridge)"
+	(label "RF_TXD"
 		(at 309.88 62.23 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4365,7 +4365,7 @@
 		)
 		(uuid "14370cc0-90d5-4080-888e-033a6817e02b")
 	)
-	(label "RTS(Bridge)"
+	(label "UART_RTS"
 		(at 215.9 215.9 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4376,7 +4376,7 @@
 		)
 		(uuid "15ae9684-6bbe-4d06-8ca4-508b42715da5")
 	)
-	(label "RTS(Bridge)"
+	(label "UART_RTS"
 		(at 309.88 58.42 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4387,7 +4387,7 @@
 		)
 		(uuid "21ac04bd-8d79-4c94-9e8d-ca8e5376b36b")
 	)
-	(label "TXD(Bridge)"
+	(label "RF_TXD"
 		(at 215.9 210.82 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4409,8 +4409,8 @@
 		)
 		(uuid "2ce397ee-cb11-419a-af58-01ece1ea4ddf")
 	)
-	(label "USB_D+"
-		(at 175.26 228.6 0)
+	(label "USB_OUT_D+"
+		(at 171.45 228.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4464,7 +4464,7 @@
 		)
 		(uuid "5eacaec4-45c3-402a-9580-3078ffb73084")
 	)
-	(label "CTS(Bridge)"
+	(label "UART_CTS"
 		(at 309.88 54.61 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4486,8 +4486,8 @@
 		)
 		(uuid "83f7e892-5fe4-4329-88fc-3c36a514ec3e")
 	)
-	(label "USB_D-"
-		(at 175.26 226.06 0)
+	(label "USB_OUT_D-"
+		(at 171.45 226.06 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4541,7 +4541,7 @@
 		)
 		(uuid "a7c2a234-2ae2-435b-a3ae-b0453bf3c535")
 	)
-	(label "CTS(Bridge)"
+	(label "UART_CTS"
 		(at 215.9 218.44 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4563,7 +4563,7 @@
 		)
 		(uuid "bc90943f-44fe-4cb6-9cd9-68a8a656339b")
 	)
-	(label "RXD(Bridge)"
+	(label "RF_RXD"
 		(at 309.88 66.04 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4651,7 +4651,7 @@
 		)
 		(uuid "e8d3ad02-09cd-4d87-b55f-4ef315cf32b1")
 	)
-	(label "RXD(Bridge)"
+	(label "RF_RXD"
 		(at 215.9 213.36 0)
 		(fields_autoplaced yes)
 		(effects
