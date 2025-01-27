@@ -1,4 +1,4 @@
-23846577441867121
+23848315269877222
 Audio_Module
 QFN24_CP2102N_SIL
 
@@ -96767,6 +96767,13 @@ QFN50P500X500X80-29N
 0
 29
 29
+rfReciever-Footprints
+SOT143
+
+
+0
+4
+4
 rfReciever-Footprints
 XBeeXR900RFMicro
 
