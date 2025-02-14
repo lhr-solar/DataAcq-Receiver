@@ -7344,7 +7344,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1F"
+		(property "Value" "1uF"
 			(at 227.33 59.6899 0)
 			(effects
 				(font
@@ -8243,7 +8243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/tvs-diode-array-spasp050xba-lead-freegreen-datasheet?assetguid=15a03de1-f0c6-457a-95f1-55d449fdd756"
 			(at 133.35 73.66 0)
 			(effects
 				(font
@@ -9773,7 +9773,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10F"
+		(property "Value" "10uF"
 			(at 217.17 59.6899 0)
 			(effects
 				(font
@@ -10431,7 +10431,7 @@
 				)
 			)
 		)
-		(property "Value" "CP2102N-Axx-xQFN20"
+		(property "Value" "CP2102N-A02-GQFN24"
 			(at 185.166 244.602 90)
 			(effects
 				(font
@@ -10448,7 +10448,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf"
+		(property "Datasheet" "https://datasheet.octopart.com/CP2102N-A02-GQFN24-Silicon-Labs-datasheet-138898368.pdf"
 			(at 198.12 252.73 0)
 			(effects
 				(font
@@ -10693,7 +10693,7 @@
 				)
 			)
 		)
-		(property "Value" "1054440001"
+		(property "Value" "MOLEX 1054440001"
 			(at 59.69 59.69 0)
 			(effects
 				(font
@@ -10711,7 +10711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/1054440001?display=pdf"
 			(at 59.69 87.63 0)
 			(effects
 				(font
