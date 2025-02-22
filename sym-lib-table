@@ -3,4 +3,6 @@
   (lib (name "xBeeRFSymbol")(type "KiCad")(uri "${KIPRJMOD}/symbols/xbeeRFmicro.kicad_sym")(options "")(descr ""))
   (lib (name "5vESD")(type "KiCad")(uri "${KIPRJMOD}/symbols/SP0503BAHTG.kicad_sym")(options "")(descr ""))
   (lib (name "Molex USBC")(type "KiCad")(uri "${KIPRJMOD}/symbols/1054440001.kicad_sym")(options "")(descr ""))
+  (lib (name "ExternalLDO")(type "KiCad")(uri "${KIPRJMOD}/symbols/TPS76333DBVT.kicad_sym")(options "")(descr ""))
+  (lib (name "FTDIBridge")(type "KiCad")(uri "${KIPRJMOD}/symbols/FT234XD-R.kicad_sym")(options "")(descr ""))
 )
