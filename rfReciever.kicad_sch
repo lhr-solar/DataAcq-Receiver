@@ -3416,6 +3416,12 @@
 		(uuid "50c0a745-75fd-4e95-8784-3a2742b94eb2")
 	)
 	(junction
+		(at 172.72 187.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d14c6a7-774b-4326-9c54-830711f65482")
+	)
+	(junction
 		(at 223.52 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3518,6 +3524,12 @@
 		(uuid "b6ec688f-7972-4e47-a81e-07b641abcf3c")
 	)
 	(junction
+		(at 220.98 187.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf067e98-ca1e-4ec5-98d0-c341e5c81cc1")
+	)
+	(junction
 		(at 39.37 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3528,12 +3540,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d558bffa-44c0-4d37-8cef-300a51afd73e")
-	)
-	(junction
-		(at 220.98 204.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f1701945-a235-465b-b402-2cc2b6680811")
 	)
 	(junction
 		(at 220.98 201.93)
@@ -3707,6 +3713,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 187.96) (xy 220.98 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "102f2e6f-33be-4bf1-bed1-c5a89b279dd1")
+	)
+	(wire
+		(pts
 			(xy 123.19 99.06) (xy 128.27 99.06)
 		)
 		(stroke
@@ -3777,16 +3793,6 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 193.04) (xy 220.98 199.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2116018e-f02c-4306-9c32-2277c1450508")
-	)
-	(wire
-		(pts
 			(xy 142.24 96.52) (xy 142.24 95.25)
 		)
 		(stroke
@@ -3794,16 +3800,6 @@
 			(type default)
 		)
 		(uuid "2233af4b-c0f8-45ff-ba36-ebf254c60113")
-	)
-	(wire
-		(pts
-			(xy 172.72 186.69) (xy 172.72 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "231dbf27-8664-453f-8f3b-f7e5d60cd58f")
 	)
 	(wire
 		(pts
@@ -3867,23 +3863,13 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 196.85) (xy 172.72 199.39)
+			(xy 172.72 187.96) (xy 172.72 199.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "314e7bec-f51c-48c5-8b4a-f72653c28337")
-	)
-	(wire
-		(pts
-			(xy 167.64 186.69) (xy 172.72 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3339fed5-ca0a-4119-b79c-0f624e9b98a1")
 	)
 	(wire
 		(pts
@@ -3967,6 +3953,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 185.42) (xy 220.98 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3edcd65e-b078-46ed-bd2d-b2856e8bd7df")
+	)
+	(wire
+		(pts
 			(xy 142.24 100.33) (xy 142.24 99.06)
 		)
 		(stroke
@@ -4047,6 +4043,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 187.96) (xy 220.98 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ac14137-ed40-4b1f-8ed4-3bf3ad6daed4")
+	)
+	(wire
+		(pts
 			(xy 275.59 125.73) (xy 275.59 127)
 		)
 		(stroke
@@ -4054,16 +4060,6 @@
 			(type default)
 		)
 		(uuid "5acc5688-98d8-442d-89e9-120b9b85457a")
-	)
-	(wire
-		(pts
-			(xy 220.98 204.47) (xy 223.52 204.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b2f8014-8963-4f03-87b2-07975a44c6b1")
 	)
 	(wire
 		(pts
@@ -4084,6 +4080,16 @@
 			(type default)
 		)
 		(uuid "5ef44c1a-26fa-4a9b-9ea7-90f77ec0d8f1")
+	)
+	(wire
+		(pts
+			(xy 165.1 187.96) (xy 172.72 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "616ce1d4-7be7-4878-b50d-f29bce3ea6d8")
 	)
 	(wire
 		(pts
@@ -4167,16 +4173,6 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 201.93) (xy 228.6 201.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "762f4b4d-8c83-49e1-a136-aaf061ad2f34")
-	)
-	(wire
-		(pts
 			(xy 304.8 99.06) (xy 328.93 99.06)
 		)
 		(stroke
@@ -4244,16 +4240,6 @@
 			(type default)
 		)
 		(uuid "800002be-238c-46bd-9022-9997e14a7dff")
-	)
-	(wire
-		(pts
-			(xy 228.6 201.93) (xy 228.6 199.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "813115c7-31dc-45bf-afce-2bf2367e6876")
 	)
 	(wire
 		(pts
@@ -4417,7 +4403,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 71.12) (xy 146.05 71.12)
+			(xy 100.33 71.12) (xy 114.3 71.12)
 		)
 		(stroke
 			(width 0)
@@ -4777,6 +4763,16 @@
 	)
 	(wire
 		(pts
+			(xy 193.04 187.96) (xy 172.72 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff22cd12-159b-4f1e-a701-de3db807ff2a")
+	)
+	(wire
+		(pts
 			(xy 273.05 125.73) (xy 275.59 125.73)
 		)
 		(stroke
@@ -4902,17 +4898,6 @@
 			(justify left bottom)
 		)
 		(uuid "14841782-98aa-44ae-8dcf-0d7b2b904480")
-	)
-	(label "VCCIO"
-		(at 228.6 199.39 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1f50f597-85ab-42bc-9a9f-0ec370d6b6a6")
 	)
 	(label "UART_RTS"
 		(at 322.58 50.8 0)
@@ -5056,17 +5041,6 @@
 			(justify left bottom)
 		)
 		(uuid "a2fcd2f1-2eae-443d-b561-c19ba1c95cc5")
-	)
-	(label "BRIDGE_RESET"
-		(at 223.52 204.47 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a5d2f4ba-6356-423c-b913-57f6d205d6e7")
 	)
 	(label "RF_D7"
 		(at 308.61 123.19 0)
@@ -5255,17 +5229,6 @@
 		)
 		(uuid "f32bee0c-557a-4c12-a85b-9673dfd42176")
 	)
-	(label "BRIDGE_RESET"
-		(at 172.72 199.39 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f39d6b3f-29d8-44ab-9e77-0b61971f6a45")
-	)
 	(symbol
 		(lib_id "Device:R")
 		(at 35.56 64.77 270)
@@ -5312,6 +5275,42 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 35.56 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 35.56 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 35.56 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 35.56 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
 			(at 35.56 64.77 0)
 			(effects
 				(font
@@ -5456,6 +5455,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 39.37 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 39.37 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 39.37 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 39.37 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b5fef8d6-49d1-4ae2-b0ba-8f0cea728e37")
 		)
@@ -5531,75 +5566,6 @@
 			(project "rfReciever"
 				(path "/1c5a3368-abed-417b-9a38-92624a95b87f"
 					(reference "#PWR030")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 172.72 193.04 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "08457870-c758-4fd4-898c-634be3163911")
-		(property "Reference" "C12"
-			(at 173.736 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 175.768 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 173.6852 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 172.72 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 172.72 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "2e82c6c5-4cfe-458c-8895-9da9c3480102")
-		)
-		(pin "1"
-			(uuid "1c229c5a-9278-4121-bad1-c6e1154b7af2")
-		)
-		(instances
-			(project "rfReciever"
-				(path "/1c5a3368-abed-417b-9a38-92624a95b87f"
-					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -5882,6 +5848,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 351.79 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 351.79 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 351.79 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 351.79 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9a333234-ab13-4e05-8787-20a61577772f")
 		)
@@ -6080,6 +6082,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 231.14 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 231.14 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 231.14 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 231.14 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3c8267b6-5194-45ee-826d-49becee416c5")
 		)
@@ -6166,6 +6204,42 @@
 			)
 		)
 		(property "P/N" "CRCW08051K00FKEAC"
+			(at 344.17 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 344.17 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 344.17 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 344.17 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
 			(at 344.17 80.01 0)
 			(effects
 				(font
@@ -6281,7 +6355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FT234XD-R:SON45P300X300X80-13N"
+		(property "Footprint" "rfReciever-Footprints:SON45P300X300X80-13N"
 			(at 205.74 209.55 0)
 			(effects
 				(font
@@ -6291,7 +6365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT234XD.pdf"
 			(at 205.74 209.55 0)
 			(effects
 				(font
@@ -6429,6 +6503,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 205.74 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 205.74 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 205.74 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 205.74 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "4cf51266-41f2-4fbd-bbfd-3477726c1946")
 		)
@@ -6544,6 +6654,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 165.1 191.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "34bd2cb2-db4f-410d-a97d-efb6ead7e315")
+		(property "Reference" "C1"
+			(at 168.148 191.516 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10nF"
+			(at 167.386 194.056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 166.0652 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 165.1 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "86273e2b-aa80-4555-b49a-78b82a9ea906")
+		)
+		(pin "2"
+			(uuid "3cb7e939-f284-46f6-af55-bb59be859212")
+		)
+		(instances
+			(project ""
+				(path "/1c5a3368-abed-417b-9a38-92624a95b87f"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ExternalLDO:TPS76333DBVT")
 		(at 62.23 209.55 0)
 		(unit 1)
@@ -6569,7 +6748,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS76333DBVT:SOT95P280X145-5N"
+		(property "Footprint" "rfReciever-Footprints:SOT95P280X145-5N"
 			(at 62.23 209.55 0)
 			(effects
 				(font
@@ -6674,6 +6853,42 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 62.23 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 62.23 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 62.23 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 62.23 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -7016,6 +7231,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 223.52 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 223.52 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 223.52 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 223.52 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f66232d8-f9ca-474d-a09f-c265fe5364b2")
 		)
@@ -7149,6 +7400,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 231.14 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 231.14 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 231.14 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 231.14 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "323f28f0-923c-45c2-b6e9-74fe8b037e62")
 		)
@@ -7232,7 +7519,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 146.05 71.12 0)
+		(at 114.3 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7241,7 +7528,7 @@
 		(fields_autoplaced yes)
 		(uuid "654e89d3-dd24-478d-94a2-84a259b0777d")
 		(property "Reference" "#PWR012"
-			(at 146.05 74.93 0)
+			(at 114.3 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7250,7 +7537,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 146.05 66.04 0)
+			(at 114.3 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7258,7 +7545,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 71.12 0)
+			(at 114.3 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7267,7 +7554,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 71.12 0)
+			(at 114.3 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7276,7 +7563,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 146.05 71.12 0)
+			(at 114.3 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7341,6 +7628,42 @@
 			)
 		)
 		(property "Description" "Microminiature SMT Side Actuated, 4.2 x 2.8 x 1.42mm, without pegs, with shield pin"
+			(at 358.14 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 358.14 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 358.14 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 358.14 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
 			(at 358.14 80.01 0)
 			(effects
 				(font
@@ -7422,6 +7745,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 234.95 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 234.95 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 234.95 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 234.95 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e673e3fb-416a-4ca3-85a4-6103d81a3363")
 		)
@@ -7483,6 +7842,42 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 311.15 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 311.15 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 311.15 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 311.15 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
 			(at 311.15 46.99 0)
 			(effects
 				(font
@@ -7626,6 +8021,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 335.28 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 335.28 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 335.28 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 335.28 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6fcc887d-d653-444e-b073-83d2799fd15a")
 		)
@@ -7686,6 +8117,42 @@
 			)
 		)
 		(property "Description" "Microminiature SMT Side Actuated, 4.2 x 2.8 x 1.42mm, without pegs, with shield pin"
+			(at 361.95 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 361.95 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 361.95 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 361.95 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
 			(at 361.95 106.68 0)
 			(effects
 				(font
@@ -7896,6 +8363,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 242.57 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 242.57 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 242.57 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 242.57 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0fadddf7-fc44-4966-83d9-9d4dcad6eab6")
 		)
@@ -8096,6 +8599,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 276.86 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 276.86 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 276.86 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 276.86 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "19"
 			(uuid "c2c77454-ed09-41a2-86ad-299b2e1658ab")
 		)
@@ -8209,16 +8748,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 167.64 186.69 0)
+		(at 165.1 195.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "9dcf1356-cc25-47e2-be46-f93d609ce9c6")
-		(property "Reference" "#PWR038"
-			(at 167.64 193.04 0)
+		(uuid "a0307204-4230-4088-8ef4-d3e52b82543c")
+		(property "Reference" "#PWR02"
+			(at 165.1 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8227,7 +8766,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 167.64 191.77 0)
+			(at 165.1 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8235,7 +8774,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 167.64 186.69 0)
+			(at 165.1 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8244,7 +8783,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 186.69 0)
+			(at 165.1 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8253,7 +8792,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 167.64 186.69 0)
+			(at 165.1 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8262,12 +8801,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "6017bf5d-b411-4989-a675-2bb9d4c19a1f")
+			(uuid "12246a3a-5a4e-4bd3-94e4-b1f45ad4c95b")
 		)
 		(instances
 			(project "rfReciever"
 				(path "/1c5a3368-abed-417b-9a38-92624a95b87f"
-					(reference "#PWR038")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -8319,6 +8858,42 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 83.82 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 83.82 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 83.82 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 83.82 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
 			(at 83.82 209.55 0)
 			(effects
 				(font
@@ -8391,6 +8966,42 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
+			(at 133.35 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 133.35 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 133.35 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 133.35 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
 			(at 133.35 96.52 0)
 			(effects
 				(font
@@ -8479,6 +9090,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 308.61 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 308.61 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 308.61 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 308.61 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "69367093-d544-4723-ab4e-b53653e959ac")
 		)
@@ -8547,6 +9194,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 318.77 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 318.77 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 318.77 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 318.77 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bbf6f196-e17d-4ac1-90ad-d82c9655f6eb")
 		)
@@ -8607,6 +9290,42 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 318.77 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 318.77 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 318.77 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 318.77 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
 			(at 318.77 124.46 0)
 			(effects
 				(font
@@ -8684,6 +9403,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 327.66 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 327.66 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 327.66 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 327.66 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a076942-d698-41e9-958e-aa20cc94a816")
 		)
@@ -8744,6 +9499,42 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 328.93 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 328.93 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 328.93 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 328.93 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
 			(at 328.93 115.57 0)
 			(effects
 				(font
@@ -8813,6 +9604,42 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 308.61 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 308.61 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 308.61 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 308.61 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
 			(at 308.61 116.84 0)
 			(effects
 				(font
@@ -8904,7 +9731,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 220.98 193.04 0)
+		(at 220.98 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8913,7 +9740,7 @@
 		(fields_autoplaced yes)
 		(uuid "be041f8d-98b8-4336-a2a2-0eb929f9d05a")
 		(property "Reference" "#PWR029"
-			(at 220.98 196.85 0)
+			(at 220.98 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8922,7 +9749,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 220.98 187.96 0)
+			(at 220.98 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8930,7 +9757,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 220.98 193.04 0)
+			(at 220.98 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8939,7 +9766,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 193.04 0)
+			(at 220.98 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8948,7 +9775,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 220.98 193.04 0)
+			(at 220.98 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9015,6 +9842,42 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 213.36 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 213.36 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 213.36 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 213.36 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
 			(at 213.36 58.42 0)
 			(effects
 				(font
@@ -9384,6 +10247,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 339.09 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 339.09 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 339.09 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 339.09 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2452e9d0-6ac4-4f26-805d-0147fc20c60a")
 		)
@@ -9473,6 +10372,42 @@
 			)
 		)
 		(property "P/N" "C0805C105J4RAC7210"
+			(at 345.44 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 345.44 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 345.44 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 345.44 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
 			(at 345.44 111.76 0)
 			(effects
 				(font
@@ -9607,6 +10542,42 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 328.93 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 328.93 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 328.93 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 328.93 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
 			(at 328.93 124.46 0)
 			(effects
 				(font
@@ -9814,6 +10785,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 59.69 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 59.69 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 59.69 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 59.69 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A12"
 			(uuid "9616dbc1-d2b6-4df6-ac37-bc1276ba0b20")
 		)
@@ -9890,6 +10897,109 @@
 			(project ""
 				(path "/1c5a3368-abed-417b-9a38-92624a95b87f"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 196.85 187.96 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f96f6361-2066-4ab7-8f19-62d8d0fa4990")
+		(property "Reference" "R1"
+			(at 196.85 185.928 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10K"
+			(at 196.85 187.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 196.85 189.738 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 196.85 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 196.85 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 196.85 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 196.85 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 196.85 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 196.85 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ee4cd201-884f-4dec-886d-ba61b27e796b")
+		)
+		(pin "1"
+			(uuid "271df5fc-7a03-410c-a4be-d6db7c01471e")
+		)
+		(instances
+			(project "rfReciever"
+				(path "/1c5a3368-abed-417b-9a38-92624a95b87f"
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -10015,6 +11125,42 @@
 				(hide yes)
 			)
 		)
+		(property "AVAILABILITY" ""
+			(at 342.9 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 342.9 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 342.9 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
+			(at 342.9 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e423f41d-1104-4a51-bad7-2cf768c4e3e2")
 		)
@@ -10077,6 +11223,42 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 320.04 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 320.04 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 320.04 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 320.04 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE" ""
 			(at 320.04 54.61 0)
 			(effects
 				(font

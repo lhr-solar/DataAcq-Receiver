@@ -1,4 +1,4 @@
-23850054915862389
+23853535412894163
 Audio_Module
 QFN24_CP2102N_SIL
 
@@ -96774,6 +96774,20 @@ QFN50P500X500X80-29N
 0
 29
 29
+rfReciever-Footprints
+SON45P300X300X80-13N
+
+
+0
+13
+13
+rfReciever-Footprints
+SOT95P280X145-5N
+
+
+0
+5
+5
 rfReciever-Footprints
 SOT143
 
