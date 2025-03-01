@@ -4434,7 +4434,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 195.58) (xy 177.8 199.39)
+			(xy 177.8 196.85) (xy 177.8 199.39)
 		)
 		(stroke
 			(width 0)
@@ -5048,6 +5048,17 @@
 		)
 		(uuid "f275575f-de0f-4907-b28a-be49e51a31b0")
 	)
+	(label "USBDM"
+		(at 220.98 209.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0afc8bfd-56d1-4e0b-8ab6-e54d8aa26c67")
+	)
 	(label "RF_TXD"
 		(at 309.88 62.23 0)
 		(fields_autoplaced yes)
@@ -5126,7 +5137,7 @@
 		(uuid "2f602053-da6e-4a9c-8bd6-14bf336acbf5")
 	)
 	(label "FTDI_3.3V"
-		(at 177.8 195.58 0)
+		(at 177.8 196.85 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5146,6 +5157,17 @@
 			(justify left bottom)
 		)
 		(uuid "44ff2244-5c97-4428-b354-8837490ae4d0")
+	)
+	(label "FTDI_RESET"
+		(at 177.8 201.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "48752a61-3b4d-47a4-a5eb-c74a4657c1cd")
 	)
 	(label "RF_D9"
 		(at 328.93 120.65 0)
@@ -5180,7 +5202,7 @@
 		)
 		(uuid "58ddbe25-6565-404a-9047-69c2001474f8")
 	)
-	(label "MLX(D+)"
+	(label "MLXDP"
 		(at 29.21 72.39 0)
 		(fields_autoplaced yes)
 		(effects
@@ -5256,6 +5278,17 @@
 			(justify left bottom)
 		)
 		(uuid "83f7e892-5fe4-4329-88fc-3c36a514ec3e")
+	)
+	(label "USBDP"
+		(at 220.98 212.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "936a2985-c905-4dcc-a581-9959849b8f04")
 	)
 	(label "MLX(VBUS)"
 		(at 151.13 191.77 0)
@@ -5378,7 +5411,7 @@
 		)
 		(uuid "d6e63c77-1dc0-4105-94dc-d3b4d596559c")
 	)
-	(label "MLX(D-)"
+	(label "MLXDN"
 		(at 113.03 95.25 0)
 		(fields_autoplaced yes)
 		(effects
@@ -5389,7 +5422,7 @@
 		)
 		(uuid "d8e7aec0-bc9b-485a-b4cc-6bdb4ebb5a39")
 	)
-	(label "MLX(D-)"
+	(label "MLXDN"
 		(at 29.21 74.93 0)
 		(fields_autoplaced yes)
 		(effects
@@ -5400,7 +5433,18 @@
 		)
 		(uuid "d9172435-fcb0-4c0f-b4ef-4baf0204ef9f")
 	)
-	(label "MLX(D+)"
+	(label "VCCIO"
+		(at 222.25 201.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "db5a71b6-7bf3-4db8-b2a5-6186ab75bfc6")
+	)
+	(label "MLXDP"
 		(at 113.03 100.33 0)
 		(fields_autoplaced yes)
 		(effects

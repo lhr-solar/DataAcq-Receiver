@@ -1,0 +1,33 @@
+# KiCad project files to ignore
+
+# Backup and temporary files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.tmp
+*.~*
+~*.kicad_sch.lck
+rfReciever/#auto_saved_files#
+rfReciever-backups/
+
+# Auto-generated files
+*.net
+*.xml
+*.rpt
+*.lst
+*.raw
+*.log
+
+# Local configuration and cache
+*.vscode/
+*.swp
+*.pro.user
+*.kicad_prl
+*-cache.lib
+*-rescue.lib
+
+# Ignore backup .zip files
+rfReciever/rfReciever-backups/*.zip
+
+# Ignore KiCad cache files
+rfReciever/fp-info-cache
