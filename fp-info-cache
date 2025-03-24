@@ -1,4 +1,4 @@
-23853535412894163
+23863984136492327
 Audio_Module
 QFN24_CP2102N_SIL
 
@@ -96761,6 +96761,27 @@ Varistor VF
 2
 2
 rfReciever-Footprints
+DBV5
+
+TLV70130DBVR 
+0
+5
+5
+rfReciever-Footprints
+DBV5-L
+
+TLV70130DBVR 
+0
+5
+5
+rfReciever-Footprints
+DBV5-M
+
+TLV70130DBVR 
+0
+5
+5
+rfReciever-Footprints
 MOLEX_1054440001
 
 
@@ -96795,6 +96816,27 @@ SOT143
 0
 4
 4
+rfReciever-Footprints
+TPS1120DR
+
+TPS1120DR 
+0
+8
+8
+rfReciever-Footprints
+TPS1120DR-L
+
+TPS1120DR 
+0
+8
+8
+rfReciever-Footprints
+TPS1120DR-M
+
+TPS1120DR 
+0
+8
+8
 rfReciever-Footprints
 XBeeXR900RFMicro
 

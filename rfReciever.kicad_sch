@@ -4988,7 +4988,7 @@
 		)
 		(uuid "58ddbe25-6565-404a-9047-69c2001474f8")
 	)
-	(label "MLXDP"
+	(label "USBMLXDP"
 		(at 29.21 72.39 0)
 		(fields_autoplaced yes)
 		(effects
@@ -5186,7 +5186,7 @@
 		)
 		(uuid "d6e63c77-1dc0-4105-94dc-d3b4d596559c")
 	)
-	(label "MLXDN"
+	(label "USBMLXDN"
 		(at 113.03 95.25 0)
 		(fields_autoplaced yes)
 		(effects
@@ -5197,7 +5197,7 @@
 		)
 		(uuid "d8e7aec0-bc9b-485a-b4cc-6bdb4ebb5a39")
 	)
-	(label "MLXDN"
+	(label "USBMLXDN"
 		(at 29.21 74.93 0)
 		(fields_autoplaced yes)
 		(effects
@@ -5208,7 +5208,7 @@
 		)
 		(uuid "d9172435-fcb0-4c0f-b4ef-4baf0204ef9f")
 	)
-	(label "MLXDP"
+	(label "USBMLXDP"
 		(at 113.03 100.33 0)
 		(fields_autoplaced yes)
 		(effects
