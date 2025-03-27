@@ -1,22 +1,21 @@
-Reference,Value,Datasheet,Footprint,Qty,Mouser Part,
-"C1,C3",4.7uF,~,Capacitor_SMD:C_0805_2012Metric,2,871-B32924M3475M000,
-"C2,C4",0.1uF,~,Capacitor_SMD:C_0805_2012Metric,2,871-B32912H4104M000,
-C5,47pF,~,Capacitor_SMD:C_0805_2012Metric,1,80-C0805C470F5G,
-C6,1uF,~,Capacitor_SMD:C_0805_2012Metric,1,75-F17725102900,
-C7,10uF,~,Capacitor_SMD:C_0805_2012Metric,1,810-C1608X7T1A106M08,
-"C8,C9",1uF,~,Capacitor_SMD:C_0805_2012Metric,2,75-F17725102900,
-"D1,D2,D7,D8,D9",LED,~,LED_SMD:LED_0805_2012Metric,5,941-XPLDCL00HC6AAAE7,/
-D3,SP0503BAHTG,https://www.littelfuse.com/assetdocs/tvs-diode-array-spasp050xba-lead-freegreen-datasheet?assetguid=15a03de1-f0c6-457a-95f1-55d449fdd756,rfReciever-Footprints:SOT143,1,576-SP0503BAHTG,
-J1,MOLEX 1054440001,https://www.molex.com/en-us/products/part-detail-pdf/1054440001?display=pdf,rfReciever-Footprints:MOLEX_1054440001,1,538-105444-0001,
-"R1,R5,R6,R15,R16,R18",1K,~,Resistor_SMD:R_0805_2012Metric,6,71-CRCW08051K00FKEAC,
-R2,47.5K,~,Resistor_SMD:R_0805_2012Metric,1,71-CRCW251247K5FKEG,
-R3,22.1K,~,Resistor_SMD:R_0805_2012Metric,1,594-MCS04020D2212BE0,
-R4,5.1K,~,Resistor_SMD:R_0805_2012Metric,1,71-TNPU06035K10AYEN0,
-"R7,R13",1k,~,Resistor_SMD:R_0805_2012Metric,2,71-CRCW08051K00FKEAC,
-"R8,R9,R11",10K,~,Resistor_SMD:R_0805_2012Metric,3,71-CRCW080510K0FKEAC,
-"R10,R12,R17",10k,~,Resistor_SMD:R_0805_2012Metric,3,71-CRCW080510K0FKEAC,
-SW1,RF_RESET,https://www.ckswitches.com/media/1482/kms.pdf,Button_Switch_SMD:SW_SPST_CK_KMS2xxGP,1,611-KMS231GLFS,
-SW2,RF_SLEEP,https://www.ckswitches.com/media/1482/kms.pdf,Button_Switch_SMD:SW_SPST_CK_KMS2xxGP,1,611-KMS231GLFS,
-U1,CP2102N-A02-GQFN24,https://datasheet.octopart.com/CP2102N-A02-GQFN24-Silicon-Labs-datasheet-138898368.pdf,rfReciever-Footprints:QFN50P500X500X80-29N,1,634-CP2102NA02GQFN24,
-U2,USBLC6-2SC6,https://www.st.com/resource/en/datasheet/usblc6-2.pdf,Package_TO_SOT_SMD:SOT-23-6,1,511-USBLC6-2SC6,
-X1,DigiXBeeRX900Micro,https://fcc.report/FCC-ID/MCQ-XB9XR/7222310.pdf,rfReciever-Footprints:XBeeXR900RFMicro,1,~,
+Reference,Value,Datasheet,Footprint,Qty,Mouser Part Number
+C2,100nF,~,Capacitor_SMD:C_0805_2012Metric,1,80-C0805R104J5RACTU
+"C5,C12,C13",47pF,~,Capacitor_SMD:C_0805_2012Metric,3,80-C0805C470F5G
+"C6,C10,C11",1uF,~,Capacitor_SMD:C_0805_2012Metric,3,75-F17725102900
+C7,10uF,~,Capacitor_SMD:C_0805_2012Metric,1,810-C1608X7T1A106M08
+"C8,C9",1uF,~,Capacitor_SMD:C_0805_2012Metric,2,75-F17725102900
+"D7,D8,D9",LED,~,LED_SMD:LED_0805_2012Metric,3,941-XPLDCL00HC6AAAE7
+J1,MOLEX 1054440001,https://www.molex.com/en-us/products/part-detail-pdf/1054440001?display=pdf,rfReciever-Footprints:MOLEX_1054440001,1,538-105444-0001
+J2,Conn_01x03,~,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,1,538-22-28-4035 
+R4,5.1K,~,Resistor_SMD:R_0805_2012Metric,1,"71-TNPU06035K10AYEN0	"
+"R7,R13",1k,~,Resistor_SMD:R_0805_2012Metric,2,71-CRCW08051K00FKEAC
+"R8,R9,R11",10K,~,Resistor_SMD:R_0805_2012Metric,3,71-CRCW080510K0FKEAC
+"R10,R12,R17",10k,~,Resistor_SMD:R_0805_2012Metric,3,71-CRCW080510K0FKEAC
+"R14,R19",27,~,Resistor_SMD:R_0805_2012Metric,2,594-MCU08050C2709FP5
+"R15,R16,R18",1K,~,Resistor_SMD:R_0805_2012Metric,3,71-CRCW08051K00FKEAC
+SW1,RF_RESET,https://www.ckswitches.com/media/1482/kms.pdf,Button_Switch_SMD:SW_SPST_CK_KMS2xxGP,1,611-KMS231GLFS
+SW2,RF_SLEEP,https://www.ckswitches.com/media/1482/kms.pdf,Button_Switch_SMD:SW_SPST_CK_KMS2xxGP,1,611-KMS231GLFS
+U1,TLV70130DBVR,TLV70130DBVR,rfReciever-Footprints:DBV5,1,595-TLV70130DBVR
+U2,USBLC6-2SC6,https://www.st.com/resource/en/datasheet/usblc6-2.pdf,Package_TO_SOT_SMD:SOT-23-6,1,511-USBLC6-2SC6
+U3,FT234XD-R,https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT234XD.pdf,rfReciever-Footprints:SON45P300X300X80-13N,1,895-FT234XD-R
+X1,DigiXBeeRX900Micro,https://fcc.report/FCC-ID/MCQ-XB9XR/7222310.pdf,rfReciever-Footprints:XBeeXR900RFMicro,1,~
