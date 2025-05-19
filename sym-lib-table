@@ -7,4 +7,5 @@
   (lib (name "FTDIBridge")(type "KiCad")(uri "${KIPRJMOD}/symbols/FT234XD-R.kicad_sym")(options "")(descr ""))
   (lib (name "TPS1120DR")(type "KiCad")(uri "${KIPRJMOD}/symbols/TPS1120DR.kicad_sym")(options "")(descr ""))
   (lib (name "FinalLDO")(type "KiCad")(uri "${KIPRJMOD}/symbols/FinalLDO.kicad_sym")(options "")(descr ""))
+  (lib (name "utsvt-misc")(type "Legacy")(uri "${KIPRJMOD}/UTSVT-KiCadLibraries/utsvt-misc.lib")(options "")(descr ""))
 )
